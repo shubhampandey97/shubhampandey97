@@ -15,6 +15,7 @@
 
 ### 🧭 About Me
 - 🎓 **M.Sc. Computational Science & Applications (Data Science)** — *Banaras Hindu University (BHU)*
+- 🎓 **B.Tech. Computer Science Engineering** — *Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS)*
 - 🧠 Skilled in **Machine Learning, Deep Learning, and NLP**
 - ☁️ Exploring **MLOps, FastAPI, AWS, and Docker**
 - 🤝 Love collaborating on data-driven, AI-based, or full-stack ML applications
@@ -25,7 +26,7 @@
 ### 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,r,java,cpp,git,github,django,fastapi,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,seaborn,mysql,oracle,aws,docker,react,powerbi,tableau,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,sql,r,java,cpp,git,github,django,fastapi,tensorflow,pytorch,sklearn,pandas,numpy,matplotlib,seaborn,mysql,oracle,aws,docker,kubernetes,react,powerbi,tableau,vscode" />
 </p>
 
 ---
