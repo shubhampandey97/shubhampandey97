@@ -37,7 +37,7 @@
 |------------|----------------|-----------|
 | [**Face Recognition Attendance System**](https://github.com/shubhampandey97/FRAS.git) | Real-time face recognition system automating attendance tracking. | Python, OpenCV, MySQL |
 | [**Object Retrieval using NLP**](https://github.com/shubhampandey97/npl-object-retrieval) | Natural language-driven object retrieval using deep learning. | PyTorch, NLP, VGG |
-| [**Personal Expense Analysis**](https://github.com/shubhampandey97/Analyzing_Personal_Expenses) | End-to-end expense tracking & visualization pipeline. | Python, MySQL, Streamlit |
+| [**Personal Expense Analysis**](https://github.com/shubhampandey97/ExpenseManager.git) | End-to-end expense tracking, visualization pipeline with fulture expense prediction. | MySQL, FastAPI, Streamlit, AI Prediction |
 | [**COVID-19 Vaccination Data Analysis**](https://github.com/shubhampandey97/Vaccination-Analysis-Project) | EDA and dashboarding on vaccination data. | Python, Power BI |
 | [**Amazon Delivery Time Prediction**](https://github.com/shubhampandey97/amazon-delivery-prediction) | ML regression model for predicting delivery durations. | Scikit-learn, MLflow, Streamlit |
 | [**Human Voice Classification & Clustering**](https://github.com/shubhampandey97/human_voice_project) | Audio feature extraction & ML-based classification. | Librosa, PyTorch |
