@@ -45,7 +45,7 @@
 ---
 
 ### 🧾 Certifications
-- 🎯 Data Science Program – *GUVI (Powered by HCL)*
+- 🎯 IIT-M (Data Science Program) – *GUVI (Powered by HCL)*
 
 ---
 
