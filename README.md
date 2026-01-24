@@ -14,7 +14,7 @@
 ---
 
 ### 🧭 About Me
-- 🎓 **M.Sc. Computational Science & Applications (Data Science)** — *Banaras Hindu University (BHU)*
+- 🎓 **Master's Computational Science & Applications (Data Science)** — *Banaras Hindu University (BHU)*
 - 🎓 **B.Tech. Computer Science Engineering** — *Sam Higginbottom University of Agriculture, Technology and Sciences (SHUATS)*
 - 🧠 Skilled in **Machine Learning, Deep Learning, and NLP**
 - ☁️ Exploring **MLOps, FastAPI, AWS, and Docker**
