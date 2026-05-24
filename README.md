@@ -37,8 +37,8 @@
 |------------|----------------|-----------|
 | [**Face Recognition Attendance System**](https://github.com/shubhampandey97/FRAS.git) | Real-time face recognition system automating attendance tracking. | Python, OpenCV, MySQL |
 | [**Object Retrieval using NLP**](https://github.com/shubhampandey97/npl-object-retrieval) | Natural language-driven object retrieval using deep learning. | PyTorch, NLP, VGG |
-| [**Vehicle Number Plate Detection**](https://github.com/shubhampandey97) | Real-time ANPR system using YOLOv8, EasyOCR, and ByteTrack. | YOLOv8, OpenCV, EasyOCR |
-| [**Tuberculosis Detection System**](https://github.com/shubhampandey97) | Deep learning-based TB detection using chest X-rays with Grad-CAM explainability. | TensorFlow, CNN, Streamlit |
+| [**Vehicle Number Plate Detection**](https://github.com/shubhampandey97/number-plate-vehicle-detection.git) | Real-time ANPR system using YOLOv8, EasyOCR, and ByteTrack. | YOLOv8, OpenCV, EasyOCR |
+| [**Tuberculosis Detection System**](https://github.com/shubhampandey97/tuberculosis-detection-v2.git) | Deep learning-based TB detection using chest X-rays with Grad-CAM explainability. | TensorFlow, CNN, Streamlit |
 | [**Personal Expense Analysis**](https://github.com/shubhampandey97/ExpenseManager.git) | End-to-end expense tracking, visualization pipeline with fulture expense prediction. | MySQL, FastAPI, Streamlit, AI Prediction |
 | [**COVID-19 Vaccination Data Analysis**](https://github.com/shubhampandey97/Vaccination-Analysis-Project) | EDA and dashboarding on vaccination data. | Python, Power BI |
 | [**Amazon Delivery Time Prediction**](https://github.com/shubhampandey97/amazon-delivery-prediction) | ML regression model for predicting delivery durations. | Scikit-learn, MLflow, Streamlit |
