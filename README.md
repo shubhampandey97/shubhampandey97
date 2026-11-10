@@ -48,7 +48,7 @@ High scores are easy to report. I check whether they're real, then fix the data,
 - Fixed a bug that re-created the tracker every frame → **9 / 9 plates** correct on a 4K traffic clip, no duplicates.
 - `YOLOv8` `ByteTrack` `fast-plate-ocr` `OpenCV` `pytest (64)` `GitHub Actions` `Kaggle GPU`
 
-#### 📚 Healthcare RAG *(in progress)*
+#### 📚 [Healthcare RAG](https://github.com/shubhampandey97/healthcare-rag) *(in progress)*
 > Cited answers from WHO immunisation and FDA/EU AI-device guidance, and a refusal when the sources don't cover the question.
 
 - Found WHO papers are English/French two-column PDFs that leaked French into half the text; fixed with column detection + tests.
